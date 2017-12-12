@@ -1,0 +1,6 @@
+[package]
+name = "knpreader"
+version = "0.1.0"
+authors = ["Tony Aldridge <zaragopha@hotmail.com>"]
+
+[dependencies]
